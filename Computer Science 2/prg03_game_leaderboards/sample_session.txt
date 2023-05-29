@@ -1,0 +1,66 @@
+Options: [list | add | save | exit]
+? list
+game?
+0
+CLASH_ROYALE Leaderboard:
+GandulaMaster: 922
+IsaacAsiMove: 898
+Avocadorable: 697
+PuppiesnKittens: 664
+Unnecessary: 642
+ToastCrunch: 504
+EdgarAllenPoo: 491
+DnknDonuts: 416
+TheKidsCallMeBoss: 246
+FrostedCupcake: 194
+IRobot: 151
+AllGoodNamesRGone: 145
+
+Options: [list | add | save | exit]
+? list
+game?
+1
+SUPER_MARIO_BROS Leaderboard:
+GandulaMaster: 907
+EdgarAllenPoo: 771
+Avocadorable: 735
+AllGoodNamesRGone: 672
+Unnecessary: 624
+TheKidsCallMeBoss: 590
+PuppiesnKittens: 70
+
+Options: [list | add | save | exit]
+? list
+game?
+2
+PRINCE_OF_PERSIA Leaderboard:
+GandulaMaster: 804
+AllGoodNamesRGone: 477
+
+Options: [list | add | save | exit]
+? add
+name?
+ThyagoMota
+game?
+1
+score?
+500
+Options: [list | add | save | exit]
+? list
+game?
+1
+SUPER_MARIO_BROS Leaderboard:
+GandulaMaster: 907
+EdgarAllenPoo: 771
+Avocadorable: 735
+AllGoodNamesRGone: 672
+Unnecessary: 624
+TheKidsCallMeBoss: 590
+ThyagoMota: 500
+PuppiesnKittens: 70
+
+Options: [list | add | save | exit]
+? save
+done!
+Options: [list | add | save | exit]
+? exit

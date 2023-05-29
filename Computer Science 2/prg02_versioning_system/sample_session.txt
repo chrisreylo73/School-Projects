@@ -1,0 +1,118 @@
+Options: [list | put | get | delete | exit]
+? put
+key?
+shopping list
+object?
+milk
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, version=0}
+
+Options: [list | put | get | delete | exit]
+? put
+key?
+shopping list
+object?
+milk, butter
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+
+Options: [list | put | get | delete | exit]
+? put
+key?
+shoppy list
+object?
+milk, butter, bread
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list
+	VersionedObject{object=milk, butter, bread, version=0}
+
+Options: [list | put | get | delete | exit]
+? delete
+key?
+shoppy list
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? put
+key?
+shoppy list
+object?
+milk, butter, bread
+The given key is invalid!
+Options: [list | put | get | delete | exit]
+? put
+key?
+shopping list
+object?
+milk, butter, bread
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, bread, version=2}
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? get
+key?
+shopping list
+milk, butter, bread
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, bread, version=2}
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? delete
+key?
+shopping list
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, butter, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? delete
+key?
+shopping list
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? put
+key?
+shopping list
+object?
+pizza and beer
+Options: [list | put | get | delete | exit]
+? list
+key: shopping list
+	VersionedObject{object=pizza and beer, version=1}
+	VersionedObject{object=milk, version=0}
+key: shoppy list; this stack is empty!
+
+Options: [list | put | get | delete | exit]
+? exit

@@ -1,0 +1,45 @@
+Enter the IP address or the DNS: 
+RTT of establishing TCP connection = 22 ms
+Enter the HTTP Method type: 
+Enter the Name of the htm file requested: 
+Enter the HTTP Version: 
+enter the User-Agent: 
+GET /CS3700.htm HTTP/1.1
+Host: 147.153.10.87
+User -Agent: Mozilla 5 
+ 
+HTTP/1.1 200 OK
+Date: Fri, 19 Feb 2021 00:51:38 -0700
+Server: Rey/ChrisServer
+  
+RTT of query HTTP = 366 ms 
+ 
+Would you like to continue? yes or no :
+Enter the HTTP Method type: 
+Enter the Name of the htm file requested: 
+Enter the HTTP Version: 
+enter the User-Agent: 
+PUT /CS3700.htm HTTP/1.1
+Host: 147.153.10.87
+User -Agent: MOzilla 5 
+ 
+HTTP/1.1 400 Bad Request
+Date: Fri, 19 Feb 2021 00:52:49 -0700
+Server: Rey/ChrisServer
+RTT of query HTTP = 4 ms 
+ 
+Would you like to continue? yes or no :
+Enter the HTTP Method type: 
+Enter the Name of the htm file requested: 
+Enter the HTTP Version: 
+enter the User-Agent: 
+GET /notAfile HTTP/1.1
+Host: 147.153.10.87
+User -Agent: Mozilla 5 
+ 
+HTTP/1.1 404 Not Found
+Date: Fri, 19 Feb 2021 00:53:43 -0700
+Server: Rey/ChrisServer
+RTT of query HTTP = 4 ms 
+ 
+Would you like to continue? yes or no :
