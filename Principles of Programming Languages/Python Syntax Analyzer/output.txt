@@ -1,0 +1,19 @@
+Original program:
+def functOfText():
+    # The first print statement
+    print("Hello, World!")
+
+    # The second print statement
+    print("This is a simple Python program with proper syntax for indentation")
+
+    # The third print statement
+    print("And here are three print statements inside of it.")
+
+
+Updated program:
+def functOfText():
+    print('Hello, World!')
+    print('This is a simple Python program with proper syntax for indentation')
+    print('And here are three print statements inside of it.')
+
+Number of times 'print' was used: 3
