@@ -23,7 +23,6 @@ public class Course {
    private Scanner inputFile = new Scanner(inputFileName);
    private FileWriter outputFileName = new FileWriter("c:\\Java Files\\CourseReport.txt");
    private PrintWriter outputFile = new PrintWriter(outputFileName);
-   private String inputLine;
    private int counter;
 
    public Course() throws IOException {
@@ -33,8 +32,6 @@ public class Course {
    }
 
    public void inputData() {
-      inputLine = inputFile.nextLine();
-      inputLine = inputFile.nextLine();
       for (int student = 0; student < STUDENT_COUNT; student++) {
          for (int assign = 0; assign < ASSIGN_COUNT; assign++) {
             String tempStudentName = inputFile.next();

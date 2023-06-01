@@ -5,13 +5,11 @@
 
 import java.io.*;
 import java.net.*;
-import java.util.*;
 
 public class UDPServer {
     public static void main(String[] args) throws IOException {
 
         DatagramSocket udpServerSocket = new DatagramSocket(5240);
-        BufferedReader in = null;
         DatagramPacket udpPacket = null, udpPacket2 = null;
         String fromClient = null, toClient = null;
         boolean morePackets = true;
@@ -30,7 +28,6 @@ public class UDPServer {
 
                 // get the response
                 toClient = fromClient.toUpperCase();
-
                 // send the response to the client at "address" and "port"
                 InetAddress address = udpPacket.getAddress();
                 int port = udpPacket.getPort();

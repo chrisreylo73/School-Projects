@@ -19,9 +19,9 @@ public class Quizzes {
    private int command;
    private int[] grade;
    private double percent;
+   private Scanner sc = new Scanner(System.in);
 
    public Quizzes() {
-      Scanner sc = new Scanner(System.in);
       gradeLetter = null;
       username = null;
       total = 0;
@@ -35,7 +35,6 @@ public class Quizzes {
    }
 
    public int[] calculate() {
-      Scanner sc = new Scanner(System.in);
       username = sc.nextLine();
       System.out.println(username + " please enter in your 5 quiz grades (25 point scale) below");
       for (int i = 0; i < 5; i++) {
@@ -74,6 +73,7 @@ public class Quizzes {
       System.out.println("");
       System.out.println("Quiz Average: " + average + " = " + percent + "%");
       System.out.println("Quiz Grade: " + gradeLetter);
+      sc.close();
    }
 
    public static void main(String[] args) {

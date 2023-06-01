@@ -20,10 +20,10 @@ public class CS1Calculator {
    static int mCounter = 0;
    static int dCounter = 0;
    static int aCounter = 0;
+   Scanner keyboard = new Scanner(System.in);
 
    public CS1Calculator() // Constructor Method:
    {
-      Scanner keyboard = new Scanner(System.in); // Instantiates and initializes a Scanner to read from the keyboard
       sCounter = 0;// Initializes counter for each math operation
       mCounter = 0;
       dCounter = 0;
@@ -101,6 +101,7 @@ public class CS1Calculator {
             command = keyboard.nextLine();
          }
       } while (!(command.equals("N")));// If they type N they will end the loop
+      keyboard.close();
    }
 
    public static void printReport() // Print Report Method: Outputs total of each problem done and overall total
@@ -117,9 +118,8 @@ public class CS1Calculator {
 
    public static void main(String[] args) // Main Method: Calls constructor, printIntro, calculate, print report
    {
-      CS1Calculator calc = new CS1Calculator();
-      calc.printIntro();
-      calc.calculate();
-      calc.printReport();
+      printIntro();
+      calculate();
+      printReport();
    }
 }

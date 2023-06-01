@@ -23,5 +23,6 @@ public class Initials {
       char lastInitial = lastName.charAt(0);
       System.out.println("Your name is: " + firstName + " " + middleName + " " + lastName);
       System.out.println("Your initials are: " + firstInitial + ". " + middleInitial + ". " + lastInitial + ".");
+      keyboard.close();
    }
 }

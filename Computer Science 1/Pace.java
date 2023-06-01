@@ -21,5 +21,6 @@ public class Pace {
       System.out.println("Food: " + foodName);
       System.out.println("Calories:" + numberOfCalories);
       System.out.println("Minutes to walk: " + minToWalk);
+      keyboard.close();
    }
 }

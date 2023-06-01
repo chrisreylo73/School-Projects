@@ -16,7 +16,6 @@ public class GroceryBill {
    private ArrayList<Double> salesList = new ArrayList<Double>();
    private double total;
    private double finalBill;
-   private String purchases;
    private String command;
    private String answer;
    private Scanner sc = new Scanner(System.in);
@@ -24,8 +23,6 @@ public class GroceryBill {
    private double tax;
 
    public GroceryBill() {
-      Scanner sc = new Scanner(System.in);
-      purchases = null;
       total = 0;
       finalBill = 0;
       command = "YES";

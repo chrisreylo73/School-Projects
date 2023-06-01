@@ -21,5 +21,6 @@ public class Numbers {
           System.out.println("Sum = " + sum);
           int product = number1 * number2;
           System.out.println("Product = " + product);
+          keyboard.close();
      }
 }
