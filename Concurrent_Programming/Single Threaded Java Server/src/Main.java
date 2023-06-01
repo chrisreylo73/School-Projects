@@ -6,8 +6,6 @@ import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Scanner;
 import java.util.concurrent.Executors;
 
@@ -140,7 +138,7 @@ class MyHttpHandler implements HttpHandler {
 
 public class Main {
     static Arguments parseArgs(String[] args) {
-        Arguments newArgument;
+
         /*
          * Splits the argus array into 2 seperate arrays. One for the command and
          * the other for the vaule associated with the command
@@ -197,7 +195,7 @@ public class Main {
             respo = 0;
         }
         // returns portnumber, directory, and number of responces as a Arguments object
-        return newArgument = new Arguments(portNumber, direc, respo);
+        return new Arguments(portNumber, direc, respo);
     }
 
     private void serverEnd(Scanner keyboard) {

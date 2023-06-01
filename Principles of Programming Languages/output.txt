@@ -1,9 +1,0 @@
-Original code:
-def foo():
-print("Hello, World!")
-
-
-Fixed code:
-
-
-Number of print statements: 0
