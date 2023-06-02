@@ -2,7 +2,7 @@
 # School-Projects 
 _This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree._
 
-### Below is a list of all projects along with corresponding links for each project.
+###  Below is a list of all projects along with corresponding links for each project.
 
 ---
 ### Algorithms & Analysis
@@ -13,13 +13,13 @@ _This repository encompasses all the Academic projects I have completed througho
  4. [Linear and Binary Search](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Linear%20%26%20Binary%20Search)
  5. [Prim's and Kruskal's](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Prims%20%26%20Kruskals)
 ---
-###Computer Networks
+### Computer Networks
 
    1. [Router Algorithm]() 
    2. [TCP]()
    3. [UDP]()
    ---
-###Computer Science 1
+### Computer Science 1
 
    1. [Courses]() 
    2. [CS1Calculator]()
@@ -29,7 +29,7 @@ _This repository encompasses all the Academic projects I have completed througho
    6. [Pace]()
    7. [Quizzes]()
    ---
-###Computer Science 2
+### Computer Science 2
 
  __Activities__
 
@@ -81,7 +81,7 @@ _This repository encompasses all the Academic projects I have completed througho
 
    ---
 
-###Concurrent Programming
+### Concurrent Programming
 
    1. [MultiThreaded Java Server]()
    2. [Multi-Threaded Scala Server]()
@@ -89,7 +89,7 @@ _This repository encompasses all the Academic projects I have completed througho
 
    ---
 
-###Operating Systems
+### Operating Systems
 
    1. [Sudoku Solver]()
 
