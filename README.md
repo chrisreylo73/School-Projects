@@ -1,9 +1,11 @@
 
 # School-Projects 
-_This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree. [Below is a very brief overview of each project._
+_This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree._
+
+### Below is a list of all projects along with corresponding links for each project.
 
 ---
-<center> Algorithms & Analysis</center>
+### Algorithms & Analysis
 
    1. [Bubble, Merge, Quick and Radix Sort](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Bubble%2C%20Merge%2C%20Quick%2C%20and%20Radix%20Sort)
  2. [Floyd's and Dijkstra's](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Floyds%20%26%20Dijkstras)
@@ -11,13 +13,13 @@ _This repository encompasses all the Academic projects I have completed througho
  4. [Linear and Binary Search](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Linear%20%26%20Binary%20Search)
  5. [Prim's and Kruskal's](https://github.com/chrisreylo73/School-Projects/tree/main/Algorithms%20and%20Analysis/Prims%20%26%20Kruskals)
 ---
-<center>Computer Networks</center>
+###Computer Networks
 
    1. [Router Algorithm]() 
    2. [TCP]()
    3. [UDP]()
    ---
-<center>Computer Science 1</center>
+###Computer Science 1
 
    1. [Courses]() 
    2. [CS1Calculator]()
@@ -27,7 +29,7 @@ _This repository encompasses all the Academic projects I have completed througho
    6. [Pace]()
    7. [Quizzes]()
    ---
-<center>Computer Science 2</center>
+###Computer Science 2
 
  __Activities__
 
@@ -79,7 +81,7 @@ _This repository encompasses all the Academic projects I have completed througho
 
    ---
 
-<center>Concurrent Programming</center>
+###Concurrent Programming
 
    1. [MultiThreaded Java Server]()
    2. [Multi-Threaded Scala Server]()
@@ -87,12 +89,12 @@ _This repository encompasses all the Academic projects I have completed througho
 
    ---
 
-<center>Operating Systems</center>
+###Operating Systems
 
    1. [Sudoku Solver]()
 
    ---
-<center>Principles of Database Systems</center>
+### Principles of Database Systems
 
    1. [Bubble, Merge Quick and Radix Sort]()
    2. [Floyd's and Dijkstra's]()
@@ -102,7 +104,7 @@ _This repository encompasses all the Academic projects I have completed througho
 
    ---
 
-<center>Principles of Programming Languages</center>
+### Principles of Programming Languages
 
    1. [Bubble, Merge Quick and Radix Sort]()
    2. [Floyd's and Dijkstra's]()
