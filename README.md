@@ -2,7 +2,7 @@
 _This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree. Below is a very brief overview of each project._
 
 <center> Algorithms & Analysis</center>
-
+[file.pdf](Documentation/file.pdf)
 [1. Bubble, Merge Quick and Radix Sort](Algorithms and Analysis/Bubble, Merge, Quick, and Radix Sort/README.md)
 
       
