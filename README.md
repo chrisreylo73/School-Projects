@@ -3,7 +3,9 @@ _This repository encompasses all the Academic projects I have completed througho
 
 <center> Algorithms & Analysis</center>
 
-      1. [Bubble, Merge Quick and Radix Sort](Algorithms and Analysis\Bubble, Merge, Quick, and Radix Sort\README.md)
+[1. Bubble, Merge Quick and Radix Sort](Algorithms and Analysis/Bubble, Merge, Quick, and Radix Sort/README.md)
+
+      
       2. Floyd's and Dijkstra's
       3. Floyd's in Java
       4. Linear and Binary Search
