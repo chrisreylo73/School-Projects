@@ -2,7 +2,7 @@
 # School-Projects 
 _This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree._
 
-###  Below is the list of projects along with corresponding links for each project.
+###  Below is the list of projects along with corresponding links.
 
 ---
 ### Algorithms & Analysis
