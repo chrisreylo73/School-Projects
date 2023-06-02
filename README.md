@@ -83,31 +83,33 @@ _This repository encompasses all the Academic projects I have completed througho
 
 ### Concurrent Programming
 
-   1. [MultiThreaded Java Server]()
-   2. [Multi-Threaded Scala Server]()
-   3. [Single-Threaded Java Server]()
+   1. [MultiThreaded Java Server](https://github.com/chrisreylo73/School-Projects/tree/main/Concurrent_Programming/Multithreaded%20Java%20Server)
+   2. [Multi-Threaded Scala Server](https://github.com/chrisreylo73/School-Projects/tree/main/Concurrent_Programming/Multithreaded%20Scala%20Server)
+   3. [Single-Threaded Java Server](https://github.com/chrisreylo73/School-Projects/tree/main/Concurrent_Programming/Single%20Threaded%20Java%20Server)
 
    ---
 
 ### Operating Systems
 
-   1. [Sudoku Solver]()
+   1. [Sudoku Solver](https://github.com/chrisreylo73/School-Projects/tree/main/Operating%20Systems)
 
    ---
 ### Principles of Database Systems
 
-   1. [Bubble, Merge Quick and Radix Sort]()
-   2. [Floyd's and Dijkstra's]()
-   3. [Floyd's in Java]()
-   4. [Linear and Binary Search]()
-   5. [Prim's and Kruskal's]()
+   1. [Astronauts](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Astronauts)
+   2. [CMS](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Cms)
+   3. [Companies](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Companies)
+   4. [Courses](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Courses)
+   5. [Employees](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Employees)
+   6. [Occupations](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Occupations)
+   7. [Realestate](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Realestate)
+   8. [Sample](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Sample)
+   9. [Students](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Students)
+   10. [Wines](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Database%20Systems/Wines)
 
    ---
 
 ### Principles of Programming Languages
 
-   1. [Bubble, Merge Quick and Radix Sort]()
-   2. [Floyd's and Dijkstra's]()
-   3. [Floyd's in Java]()
-   4. [Linear and Binary Search]()
-   5. [Prim's and Kruskal's]()
+   1. [Lisp Truth Table Practice](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Programming%20Languages/LISP%20Truth%20Table%20Practice)
+   2. [Python Syntax Analyzer](https://github.com/chrisreylo73/School-Projects/tree/main/Principles%20of%20Programming%20Languages/Python%20Syntax%20Analyzer)
