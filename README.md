@@ -1,9 +1,9 @@
 # School-Projects 
 _This repository encompasses all the Academic projects I have completed throughout my pursuit of a Computer Science Degree. Below is a very brief overview of each project._
 
-<center> Algorithms & Analysis</center>
 
-      1. [Bubble, Merge Quick and Radix Sort](Algorithms and Analysis\Bubble, Merge, Quick, and Radix Sort\README.md)
+<center> Algorithms & Analysis</center>
+      1. [Bubble, Merge Quick and Radix Sort](Bubble, Merge, Quick, and Radix Sort/README.md)
       2. Floyd's and Dijkstra's
       3. Floyd's in Java
       4. Linear and Binary Search
